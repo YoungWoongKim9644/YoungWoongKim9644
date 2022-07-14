@@ -9,7 +9,7 @@
  Hi there! I'm Youngwoong, graduated at Electronic - communication from Kwangwoon university in Seoul, Korea.<br>
  I'm studying <b>Web Backend</b>, and also interested in <b>Network & overall digital communication system</b>
 
-💪 I’m currently working on
+<h2>💪 I’m currently working on</h2>
 - Student for Web Developer, [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
 
 🎓 Skills and Techniques
@@ -19,7 +19,7 @@
 - Spring, JPA, Docker
 - Signal Processing, Digital Communication
 
-🏷️ Stats
+<h2>🏷️ Stats</h2>
 
 | <a href="https://github.com/YoungWoongKim9644"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungWoongKim9644&show_icons=true&theme=cobalt" alt="Youngwoong's github stats" /></a> | <a href="https://solved.ac/duddnd904"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duddnd904" alt="Youngwoong's Solved.ac Profile" /></a> | 
 | ------------- | ------------- |
