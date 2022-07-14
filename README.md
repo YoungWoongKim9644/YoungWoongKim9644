@@ -1,7 +1,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungWoongKim9644&count_bg=%2379C83D&title_bg=%236E1F1F&icon=riotgames.svg&icon_color=%23E7E7E7&title=who+clicked+Youngwoong%3F&edge_flat=false"/></a>
 
-[Curriculum vitae](/youngwoongkim.pdf)</b>
-[About YoungWoongKim](https://www.notion.so/About-h2r0-232409861a6e4794abed9680265999c1)
+<table>
+<li>[Curriculum vitae](/youngwoongkim.pdf)</li>
+ <li>[About YoungWoongKim](https://www.notion.so/About-h2r0-232409861a6e4794abed9680265999c1)</li>
+</table>
 
 <h2>📈 Youngwoong Kim </h2>
  Hi there! I'm Youngwoong, graduated at Electronic - communication from Kwangwoon university in Seoul, Korea.<br>
