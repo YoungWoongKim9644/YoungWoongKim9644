@@ -7,7 +7,7 @@
 
 <h2>📈 Youngwoong Kim </h2>
  Hi there! I'm Youngwoong, graduated at Electronic - communication from Kwangwoon university in Seoul, Korea.<br>
- I'm studying <b>Web Backend</b>, <b>Network & overall communication system</b>
+ I'm studying <b>Web Backend</b>, and also interested in <b>Network & overall digital communication system</b>
 
 💪 I’m currently working on
 - Student for Web Developer, [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
@@ -15,7 +15,7 @@
 🎓 Skills and Techniques
 - 
 - <b>Java</b>, <b>Python</b>, SQL, JavaScript, MATLAB
-- <b>Pytorch</b>, <b>Keras</b>
+- <b>Pytorch</b>
 - Spring, JPA, Docker
 - Signal Processing, Digital Communication
 
