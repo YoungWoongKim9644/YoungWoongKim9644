@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungWoongKim9644&count_bg=%2379C83D&title_bg=%236E1F1F&icon=riotgames.svg&icon_color=%23E7E7E7&title=who+clicked+Youngwoong%3F&edge_flat=false"/></a>
 
-[Curriculum vitae](YoungWoongKim9644.pdf)
+[Curriculum vitae](/youngwoongkim.pdf)</b>
 [About YoungWoongKim](https://www.notion.so/About-h2r0-232409861a6e4794abed9680265999c1)
 
 <h2>📈 Youngwoong Kim </h2>
