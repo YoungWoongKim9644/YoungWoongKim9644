@@ -10,10 +10,10 @@
  I'm studying <b>Web Backend</b>, and also interested in <b>Network & overall digital communication system</b>
 
 <h2>💪 I’m currently working on</h2>
-[SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
+- Student for web developer [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
 
 
-🎓 Skills and Techniques
+<h2>🎓 Skills and Techniques</h2>
 - <b>Java</b>, <b>Python</b>, SQL, JavaScript, MATLAB
 - <b>Pytorch</b>
 - Spring, JPA, Docker
