@@ -9,9 +9,8 @@
  Hi there! I'm Youngwoong, graduated at Electronic - communication from Kwangwoon university in Seoul, Korea.<br>
  I'm studying <b>Web Backend</b>, and also interested in <b>Network & overall digital communication system</b>
 
-[SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
 <h2>💪 I’m currently working on</h2>
-- Student for Web Developer, [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
+[SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
 
 
 🎓 Skills and Techniques
