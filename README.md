@@ -12,6 +12,7 @@
 <h2>💪 I’m currently working on</h2>
 Student for Web Developer, [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
 
+
 🎓 Skills and Techniques
 - <b>Java</b>, <b>Python</b>, SQL, JavaScript, MATLAB
 - <b>Pytorch</b>
