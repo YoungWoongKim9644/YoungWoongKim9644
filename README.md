@@ -12,7 +12,7 @@
 
 <h2>💪 I’m currently working on</h2>
 
--Student for web developer [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
+- Student for web developer [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/)
 
 
 <h2>🎓 Skills and Techniques</h2>
